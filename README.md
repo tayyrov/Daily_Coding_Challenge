@@ -9,7 +9,13 @@ Python 3.6.9
 |Months|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|28|19|20|21|22|23|24|25|26|27|28|29|30|31|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-| 
 | January |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+<<<<<<< HEAD
 | February |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|||
+||||||| merged common ancestors
+| February |:heavy_check_mark:|:heavy_check_mark:||||
+=======
+| February |:heavy_check_mark:|:heavy_check_mark:||||
+>>>>>>> 876a5523ae572db4f44104c147287d8530672260
 | March |
 | April |
 | May | 
