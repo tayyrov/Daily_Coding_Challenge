@@ -1,9 +1,9 @@
 """
 Question Source:Leetcode
-Level: Hard
-Topic: Stack
+Level: Medium
+Topic: Greedy
 Solver: Tayyrov
-Date: 19.03.2022
+Date: 20.03.2022
 """
 from collections import Counter
 from math import inf
