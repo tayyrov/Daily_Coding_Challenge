@@ -1,6 +1,6 @@
 """
 Question Source:Leetcode
-Level: String
+Level: Medium
 Topic: String
 Solver: Tayyrov
 Date: 25.02.2022
