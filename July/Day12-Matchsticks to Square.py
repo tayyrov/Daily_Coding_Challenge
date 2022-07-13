@@ -5,6 +5,7 @@ Topic: Backtracking
 Solver: Tayyrov
 Date: 12.07.2022
 """
+from functools import cache
 from typing import List
 
 
